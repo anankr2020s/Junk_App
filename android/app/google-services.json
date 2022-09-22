@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772921691233",
+    "project_id": "junkapp-e2dab",
+    "storage_bucket": "junkapp-e2dab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772921691233:android:65228fd1e145771e96ee20",
+        "android_client_info": {
+          "package_name": "com.example.junk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772921691233-061rl9niu65qu45gkq0a3uscb121h86m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd_2Wgc13M6uk_FNHgGjNeY5tLO126ixU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772921691233-061rl9niu65qu45gkq0a3uscb121h86m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
